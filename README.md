@@ -14,6 +14,7 @@
 
  <br />
  <br />
+ 
 # Examples
 
 ### Responsive Hero used as gallery
