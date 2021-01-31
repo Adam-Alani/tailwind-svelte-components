@@ -12,7 +12,8 @@
 
 ![Screenshot](cards.png)
 
-
+ <br />
+ <br />
 # Examples
 
 ### Responsive Hero used as gallery
