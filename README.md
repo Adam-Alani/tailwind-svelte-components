@@ -22,6 +22,6 @@
 
 ![Screenshot](buttonUses.png)
 
-### Responsive cards used with github api to sync repo info
+### Responsive cards used with github api to sync repo info (also buttons used aswell)
 
 ![Screenshot](cardUses.png)
