@@ -15,13 +15,13 @@
 
 # Examples
 
-### Responsive Hero
+### Responsive Hero used as gallery
 ![Screenshot](headerUses.png)
 
-### Clickable buttons with hover, and animations
+### Chips used as a filtering system
 
 ![Screenshot](buttonUses.png)
 
-### Responsive cards that work with flexbox
+### Responsive cards used with github api to sync repo info
 
 ![Screenshot](cardUses.png)
